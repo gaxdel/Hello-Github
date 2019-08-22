@@ -1,2 +1,2 @@
-# hello-Github
+# Hello-Github
 github guide
